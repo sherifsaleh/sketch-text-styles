@@ -1,0 +1,3622 @@
+{
+  "styles": [
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Left/Black",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Left/Green",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CreditSuisseHeadline-Regular",
+      "lineHeight": 80,
+      "name": "Headline/Large 80pt/Black",
+      "paragraphSpacing": 0,
+      "size": 80,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Left/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Left/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Left/Black",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CreditSuisseHeadline-Regular",
+      "lineHeight": 0,
+      "name": "Headline/Small 30pt/Left/Black",
+      "paragraphSpacing": 0,
+      "size": 30,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Left/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Left/Black",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Center/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Left/Black",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Left/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CreditSuisseHeadline-Regular",
+      "lineHeight": 60,
+      "name": "Headline/Medium 60pt/Black",
+      "paragraphSpacing": 0,
+      "size": 60,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Left/Black",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Left/Red",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Center/Black",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Left/White",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Center/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0.5019607843137255,
+        "red": 0
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Left/Green",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Right/Black",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627448,
+        "green": 0.1176470588235295,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Right/Red",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.2039215686274509,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Right/Green",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Right/Red",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.2039215686274509,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Right/Green",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Right/Black",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Left/White",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CreditSuisseHeadline-Regular",
+      "lineHeight": 80,
+      "name": "Headline/Large 80pt/White",
+      "paragraphSpacing": 0,
+      "size": 80,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CreditSuisseHeadline-Regular",
+      "lineHeight": 60,
+      "name": "Headline/Medium 60pt/White",
+      "paragraphSpacing": 0,
+      "size": 60,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Left/Gray5 Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CreditSuisseHeadline-Regular",
+      "lineHeight": 0,
+      "name": "Headline/Small 30pt/Left/White",
+      "paragraphSpacing": 0,
+      "size": 30,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Left/White Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Left/White Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Left/Gray 5 Blod",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Left/Black",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Right/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Right/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.2039215686274509,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Left/Green",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627448,
+        "green": 0.1176470588235295,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Left/Red",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Left/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.2039215686274509,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Left/Green",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627448,
+        "green": 0.1176470588235295,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 24,
+      "name": "Number/Medium 16pt/Right/Red",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Center/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Left/Red",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Center/Gray 5 Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Left/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Left/Gray 5 Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Left/Red",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Left/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Left/Green",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Left/Green Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Center/Black",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Center/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Center/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Center/Gray 5 Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Center/Red",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Center/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Center/Green",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Center/Green Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Right/Black",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Right/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Right/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Right/Gray 5 Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Right/Red",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Right/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Right/Green",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Right/Green Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Left/White",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Left/White Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Center/White",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Center/White Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Right/White",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Right/White Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Left/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Left/Red",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Left/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Left/Green",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Left/Green bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Right/Gray 5 Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Center/Black",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Center/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Center/Gray 5 Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Center/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Center/Red",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Center/Green",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Center/Green bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Center/White",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Center/White Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Right/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Right/Black",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Right/Red",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Right/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Right/Green",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Right/Green bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Right/White",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Right/White Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Left/Gray5",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0.5019607843137255,
+        "red": 0
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Left/Green Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Left/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Center/Red",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Center/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0.5019607843137255,
+        "red": 0
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Center/Green",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0.5019607843137255,
+        "red": 0
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Center/Green Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Center/White",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Center/White Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Right/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Right/White",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Right/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Right/Gray Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Right/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.2039215686274509,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Right/Green Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Right/White Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Left/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Left/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Left/Red",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Left/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Left/Green Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Left/Gray 5 Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Center/Black",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Center/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Center/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Center/Gray 5 Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Center/Red",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Center/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Center/Green",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Center/Green Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Center/White",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Center/White Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Right/Black",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Right/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Right/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Right/Gray 5 Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Right/Red",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Right/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Right/Green",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Right/Green Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Right/White",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Large 24pt/Right/White Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Left/White",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627448,
+        "green": 0.1176470588235295,
+        "red": 0.8509803921568627
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Right/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Left/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Left/Gray Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Left/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.2039215686274509,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Left/Green Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Left/White Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Center/Black",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Center/Black Blod",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Center/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Center/Gray 5 Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Center/Red",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.2039215686274509,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Center/Green",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Center/White",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627454,
+        "green": 0.1176470588235294,
+        "red": 0.8509803921568627
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Center/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.2039215686274509,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Center/Green Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Center/White Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Right/Black",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Right/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Right/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.2039215686274509,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Right/Green",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Right/White",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Right/White Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.2039215686274509,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Right/Green Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Right/Gray 5 Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Left/White",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Left/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Left/Gray 5 Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627448,
+        "green": 0.1176470588235295,
+        "red": 0.8509803921568627
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Left/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.2039215686274509,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Left/Green Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Left/White Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Right/White",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Right/Gray 5 Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627448,
+        "green": 0.1176470588235295,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Right/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.2039215686274509,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Right/Green Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Right/White Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Right/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Center/Black",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Center/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Center/Gray 5",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.4823529411764706,
+        "green": 0.4862745098039216,
+        "red": 0.4862745098039216
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Center/Gray 5 Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627448,
+        "green": 0.1176470588235295,
+        "red": 0.8509803921568627
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Center/Red",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.09803921568627448,
+        "green": 0.1176470588235295,
+        "red": 0.8509803921568627
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Center/Red Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.2039215686274509,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Center/Green",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0.2039215686274509,
+        "green": 0.4862745098039216,
+        "red": 0.1215686274509804
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Center/Green Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Center/White",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 20,
+      "name": "Number/Small 14pt/Center/White Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.6745098039215687,
+        "green": 0.6980392156862745,
+        "red": 0
+      },
+      "font": "Helvetica",
+      "lineHeight": 24,
+      "name": "Symbol Organizer/Group Title",
+      "paragraphSpacing": 0,
+      "size": 20,
+      "spacing": null,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.6549019607843137,
+        "green": 0.6588235294117647,
+        "red": 0.6588235294117647
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Left/Gray 4",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.6549019607843137,
+        "green": 0.6588235294117647,
+        "red": 0.6588235294117647
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Left/Gray 4",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.6549019607843137,
+        "green": 0.6588235294117647,
+        "red": 0.6588235294117647
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Left/Gray 4 Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.6549019607843137,
+        "green": 0.6588235294117647,
+        "red": 0.6588235294117647
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Left/Gray 4 Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.6549019607843137,
+        "green": 0.6588235294117647,
+        "red": 0.6588235294117647
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Left/Gray 4 Bold",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CSTypeET-Roman",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Left/Black Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 2,
+      "color": {
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      "font": "CreditSuisseHeadline-Regular",
+      "lineHeight": 0,
+      "name": "Headline/Small 30pt/Center/Black",
+      "paragraphSpacing": 0,
+      "size": 30,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 0,
+      "color": {
+        "alpha": 1,
+        "blue": 0.1098039215686275,
+        "green": 0.7215686274509805,
+        "red": 1
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Large 24pt/Left/Amber",
+      "paragraphSpacing": 0,
+      "size": 24,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.6549019607843137,
+        "green": 0.6588235294117647,
+        "red": 0.6588235294117647
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Right/Gray 4 Bold",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.6549019607843137,
+        "green": 0.6588235294117647,
+        "red": 0.6588235294117647
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 20,
+      "name": "Paragraph/Small 14pt/Right/Gray 4",
+      "paragraphSpacing": 0,
+      "size": 14,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.6549019607843137,
+        "green": 0.6588235294117647,
+        "red": 0.6588235294117647
+      },
+      "font": "CSTypeEP-Roman",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Right/Gray 4",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.6549019607843137,
+        "green": 0.6588235294117647,
+        "red": 0.6588235294117647
+      },
+      "font": "CSTypeEP-Bold",
+      "lineHeight": 30,
+      "name": "Paragraph/Medium 16pt/Right/Gray 4 Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 0.6549019607843137,
+        "green": 0.6588235294117647,
+        "red": 0.6588235294117647
+      },
+      "font": "CS-Type-ET-Bold",
+      "lineHeight": 30,
+      "name": "Number/Medium 16pt/Right/Gray 4 Bold",
+      "paragraphSpacing": 0,
+      "size": 16,
+      "spacing": 0,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 0.9999368786811829,
+        "red": 1
+      },
+      "font": "HelveticaNeue",
+      "lineHeight": 30,
+      "name": "Sketch Measure / Size",
+      "paragraphSpacing": 0,
+      "size": 12,
+      "spacing": null,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 0.9999368786811829,
+        "red": 1
+      },
+      "font": "HelveticaNeue",
+      "lineHeight": 30,
+      "name": "Sketch Measure / Spacing",
+      "paragraphSpacing": 0,
+      "size": 12,
+      "spacing": null,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    },
+    {
+      "alignment": 1,
+      "color": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 0.9999368786811829,
+        "red": 1
+      },
+      "font": "HelveticaNeue",
+      "lineHeight": 30,
+      "name": "Sketch Measure / Property",
+      "paragraphSpacing": 0,
+      "size": 12,
+      "spacing": null,
+      "strikethrough": null,
+      "textTransform": 0,
+      "underline": null
+    }
+  ]
+}
