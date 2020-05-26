@@ -21,6 +21,7 @@ const fontSizes= [
 const fontSizesHeadline= [
 		{size:45, lineHeight: 45},
 		{size:30, lineHeight: 30},
+		{size:26, lineHeight: 26},
 ]; 
 
 
@@ -144,7 +145,8 @@ fontNamesHeadline.forEach( function(fontName) {
 	})
 });
 
-
+// 378 styles
+console.log( generatedStyles.length);
 const stringedStyled = JSON.stringify(generatedStyles);
 
 const readyToWrite = `{"styles":  ${stringedStyled} }`;
